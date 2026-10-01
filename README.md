@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/lcd-header.svg" alt="A character LCD showing: Introduction to the Internet of Things. Sense, send, decide, act. 8 modules. Labs 1 to 6. 24.0 C, 40%, fan off." width="100%">
+</p>
+
 # Introduction to the Internet of Things: Workshop Materials
 
 **Build a working smart device in one day, from your web browser.**
