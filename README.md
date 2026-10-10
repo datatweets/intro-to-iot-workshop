@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/lcd-header.svg" alt="A character LCD showing: Introduction to the Internet of Things. Sense, send, decide, act. 8 modules. Labs 1 to 6. 24.0 C, 40%, fan off." width="100%">
+  <img src="assets/lcd-header.svg" alt="A character LCD showing: Introduction to the Internet of Things. Sense, send, decide, act. 8 modules. Labs 1 to 7. 24.0 C, 40%, fan off." width="100%">
 </p>
 
 # Introduction to the Internet of Things: Workshop Materials
@@ -22,6 +22,11 @@ end, it:
 - switches on a fan by itself when the room gets too hot,
 - and sends its readings to the internet, so you can watch them from anywhere.
 
+Taking the **Telecom & Data-Centre Edition**? The same labs are set at a
+remote mobile-network tower site, and the final lab, **Lab 7**, builds a
+*Telecom Site Monitor*: it watches a site's batteries, generator, fuel tank
+and door, and starts the generator by itself when the batteries run low.
+
 You build it in a free online simulator called **Wokwi**. It runs a real
 ESP32 (a small, low-cost computer used in many smart devices) inside your
 browser. The same code would work on real hardware.
@@ -41,7 +46,7 @@ browser. The same code would work on real hardware.
 | Folder | What you'll find |
 |---|---|
 | [1-getting-started](1-getting-started/) | How to create your free Wokwi and ThingSpeak accounts, and run your first simulation |
-| [2-labs](2-labs/) | Six hands-on labs and one group activity: a PDF guide and the code for each |
+| [2-labs](2-labs/) | Seven hands-on labs and one group activity: a PDF guide and the code for each |
 | [3-slides](3-slides/) | The slides for all eight modules, as PDFs |
 | [4-book](4-book/) | *Introduction to the Internet of Things*, the course book (PDF) |
 
@@ -52,11 +57,11 @@ browser. The same code would work on real hardware.
 | 1 | What is the Internet of Things? | Group discussion |
 | 2 | How an IoT system is built | Group activity |
 | 3 | Sensors, actuators and reading data | Labs 1 and 2 |
-| 4 | Getting online: Wi-Fi and MQTT | Lab 3 |
+| 4 | Getting online: connectivity and MQTT | Lab 3 |
 | 5 | Cloud platforms and dashboards | Lab 4 |
 | 6 | Data processing and automation | Lab 5 |
 | 7 | IoT security | Spot the Vulnerability activity |
-| 8 | Real-world IoT and the final project | Lab 6 |
+| 8 | Real-world IoT and the final project | Lab 6 or Lab 7 |
 
 ## What you need
 
